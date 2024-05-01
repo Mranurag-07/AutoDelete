@@ -33,7 +33,13 @@ You can fork and deploy this bot on any server (Render, Koyeb, Railway, Heroku..
 </a>
 <br>
 Remember to create variables</details>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Mranurag-07/AutoDelete"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <details><summary>Railway</summary>
 <br>
 <a href="https://railway.app/new/template/mYFm9G?referralCode=Dxh7zU">
